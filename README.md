@@ -97,6 +97,4 @@ python main.py --port 5000
 
 ---
 
-## 👨‍💻 **Contributors**
-- **Khushi Karelia** (Project Owner)
 
